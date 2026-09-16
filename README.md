@@ -9,7 +9,7 @@ The objective of this project is to analyze Netflix's content library and answer
 5. Which actors have appeared in the most Indian movies?
 6. How has Netflix content changed over the years?
 7. How much content is available without director information?
-8. How can content be categorized based on keywords in descriptions?
+8. How can content be categorized based on keywords in descriptions analysis ?
 
 📊 Business Problems Solved
 The project answers the following 15 business questions:
